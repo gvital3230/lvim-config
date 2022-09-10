@@ -160,6 +160,7 @@ lvim.builtin.treesitter.highlight.enabled = true
 -- Additional Plugins
 lvim.plugins = {
   { "mg979/vim-visual-multi" },
+  { "gpanders/editorconfig.nvim" },
 }
 
 -- Autocommands (https://neovim.io/doc/user/autocmd.html)
